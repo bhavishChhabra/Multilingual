@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बहुभाषी</string>
+    <string name="Email">ईमेल</string>
+    <string name="Password">पासवर्ड</string>
+    <string name="Login">लॉग इन करें</string>
+    <string name="Rememberme">मुझे याद रखें</string>
+    <string name="Username">उपयोगकर्ता</string>
+    <string name="Change">भाषा बदलो</string>
+</resources>

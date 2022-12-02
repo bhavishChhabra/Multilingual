@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi languages</string>
+    <string name="Email" translatable="false">Email</string>
+    <string name="Password" translatable="false">Password</string>
+    <string name="Login" translatable="false">Login</string>
+    <string name="Username" translatable="false">Username</string>
+    <string name="Rememberme" translatable="false">Remember Me</string>
+    <string name="Change" translatable="false">Change language</string>
+
+
+</resources>
